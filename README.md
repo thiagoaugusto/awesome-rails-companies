@@ -20,3 +20,4 @@ This list is for anyone that are searching a job on Ruby on Rails.
 * http://pivotallabs.com/
 * https://thoughtbot.com/
 * http://hashrocket.com/
+* https://www.youneedabudget.com/
