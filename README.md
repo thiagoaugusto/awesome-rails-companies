@@ -16,3 +16,6 @@ This list is for anyone that are searching a job on Ruby on Rails.
 * https://37signals.com/
 * https://www.livingsocial.com/
 * https://spreecommerce.com/
+* http://pivotallabs.com/
+* https://thoughtbot.com/
+* http://hashrocket.com/
