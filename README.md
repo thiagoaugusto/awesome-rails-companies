@@ -10,6 +10,7 @@ This list is for anyone that are searching a job on Ruby on Rails.
 * http://helabs.com/
 * http://www.codeminer42.com/
 * http://www.concretesolutions.com.br/
+* https://www.enjoei.com.br/
 
 ## The United States of America (USA)
 
