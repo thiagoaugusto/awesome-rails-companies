@@ -6,9 +6,8 @@ This list is for anyone that are searching a job on Ruby on Rails.
 
 ## Australia
 
-** http://netengine.com.au/
-
-** https://reinteractive.net/
+* http://netengine.com.au/
+* https://reinteractive.net/
 
 ## Brazil
 
