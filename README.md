@@ -1,6 +1,6 @@
 # awesome-rails-companies
 
-List of awesome Ruby on Rails companies.
+List of awesome companies that utilize Ruby on Rails.
 
 This list is for anyone that are searching a job on Ruby on Rails.
 
